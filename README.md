@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -16,6 +16,7 @@
         }
          p {
             color: #a51b0b;
+	    font-size: 150px;	
         }
     </style>
 </head>
