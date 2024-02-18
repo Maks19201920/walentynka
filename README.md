@@ -5,16 +5,16 @@
     <title>Walentynki</title>
     <style>
         body {
-            font-family: Edwardian Script ITC, sans-serif;
             text-align: center;
-	          font-size: 150px;
             background-image: url('walentynka.jpg');
             background-size: cover;
             background-attachment: fixed;
             color: black;
         }
          p {
+            font-family: Edwardian Script ITC;
             color: #a51b0b;
+	    font-size: 150px;
         }
     </style>
 </head>
