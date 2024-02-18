@@ -14,7 +14,7 @@
          p {
             font-family: Edwardian Script ITC;
             color: #a51b0b;
-	    font-size: 150px;
+	    font-size: 125px;
         }
     </style>
 </head>
